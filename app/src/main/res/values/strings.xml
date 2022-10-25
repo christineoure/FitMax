@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FitMax</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="log_in">Log In</string>
+    <string name="signup">Don\'t have an account? <u>Sign Up</u></string>
+    <string name="errorInEmail">Email required</string>
+    <string name="errorInPassword">Password required</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="Login">Already have an account? <u>LogIn</u></string>
+    <string name="profile">Profile</string>
+    <string name="track">Track</string>
+    <string name="plan">Plan</string>
+    <string name="plan_your_work_out">Plan your work out...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
